@@ -1,5 +1,5 @@
 # Blockbuster
-Created By: Michael Shulman, David Ansermino
+Created By: Michael Shulman, [David Ansermino](https://github.com/ansermino/)
 
 ![](https://i.imgur.com/oSKZ4Su.png "Blockbuster")
 
