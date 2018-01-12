@@ -13,5 +13,5 @@ This is an implementation of the classic Brick Breaker in NIOS assembly. This ga
 - Sounds
   - easily customizable sounds
   - multiple sounds can be played at the same time
-  - sin wave was generated using Taylor series centered at pi/2
+  - sin wave was generated using Taylor Series centered at pi
   - uses 15 offset fixed point arithmetic, with accurate no-overflow multiplication in 32 bit registers by splitting 32 bit operations into 16 bit operations.
